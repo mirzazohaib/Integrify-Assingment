@@ -1,0 +1,18 @@
+.card {
+    width: 300px;
+    height: 370px;
+    margin: auto;
+    margin-top: 200px;
+}
+.card-content {
+    text-align: left;
+    height: 284px;
+}
+.card-action {
+    background: rgba(235, 219, 71, 0.36);
+    justify-content: center;
+    height: 40px;
+}
+.link {
+    text-decoration: none;
+}

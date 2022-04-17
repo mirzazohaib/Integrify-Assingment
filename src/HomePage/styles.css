@@ -1,0 +1,22 @@
+.background {
+    background: #d3d3d3
+}
+.searchDiv {
+    width: 300px;
+    height: 180px;
+    padding-top: 100px;
+    margin: auto;
+}
+.paper {
+    display: flex;
+    align-items: center;
+    width: 400;
+    margin: auto
+}
+.gridDiv {
+    display: grid;
+    padding-left: 60px;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 20px;
+    grid-auto-rows: 300px;
+}
